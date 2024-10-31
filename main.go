@@ -2,8 +2,6 @@ package main
 
 import (
 	"BookingParser/internal/GUI"
-
-	"fyne.io/fyne/v2/app"
 )
 
 func main() {
